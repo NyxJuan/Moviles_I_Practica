@@ -61,7 +61,7 @@
               </TextView>
               <TextView
                   android:id="@+id/cant1"
-                  android:text="cantidad de vocales 2"
+                  android:text="Cantidad de vocales:"
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content">
 
@@ -85,7 +85,7 @@
           </TextView>
           <TextView
               android:id="@+id/can2"
-              android:text="cantidad de vocales 2"
+              android:text="Cantidad de vocales:"
               android:layout_marginRight="10dp"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content">
