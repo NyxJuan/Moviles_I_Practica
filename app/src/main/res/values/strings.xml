@@ -3,9 +3,9 @@
 
     <string name="inciaoapp">Bienvenido</string>
     <string name="btonejecutar">Ejecutar</string>
-    <string name="vocales1">vocales 1</string>
-    <string name="vocales2">vocales 2</string>
+    <string name="vocales1">Vocales I:</string>
+    <string name="vocales2">Vocales II:</string>
 
-    <string name="primera">primera palabra</string>
-    <string name="segunda">segunda palabra</string>
+    <string name="primera">Primera palabra</string>
+    <string name="segunda">Segunda palabra</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ejercicios</string>
-    <string name="inciaoapp">welcome</string>
-    <string name="btonejecutar">run</string>
-    <string name="primera">first</string>
-    <string name="segunda">second</string>
-    <string name="vocales1">vowels</string>
-    <string name="vocales2">vowels</string>
+    <string name="app_name">Exercices</string>
+    <string name="inciaoapp">Welcome</string>
+    <string name="btonejecutar">Run</string>
+    <string name="primera">First</string>
+    <string name="segunda">Second</string>
+    <string name="vocales1">Vowels I:</string>
+    <string name="vocales2">Vowels II:</string>
 </resources>
